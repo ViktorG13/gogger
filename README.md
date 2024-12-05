@@ -1,0 +1,1 @@
+# GOGGER: A custom logger for go
